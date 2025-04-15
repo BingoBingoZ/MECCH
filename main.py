@@ -1,3 +1,8 @@
+'''
+Main function for training and testing the models on heterogeneous graphs.
+'''
+
+
 import argparse
 import pickle
 from pathlib import Path
